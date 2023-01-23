@@ -12,11 +12,6 @@ https://code.visualstudio.com/docs/languages/cpp
 
     So This Page will be My Study Note
 
-## TIL (Today I Learned)
-
-### 2023. 01.23
-
-- std::max, std::min, std::minmax, std::move, std::swap code learned
 
 ## Reference
 
@@ -25,3 +20,7 @@ https://code.visualstudio.com/docs/languages/cpp
     [The C++ Standard Library : Second edition Includes C++17](https://www.modernescpp.com/index.php/the-c-standard-library-second-edition-includes-c-17)
 
 - **Cpp Forum ...**
+
+## TIL (Today I Learned)
+
+### [2023. 01.23](https://velog.io/@jinhuyk/TIL-20230123)
