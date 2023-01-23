@@ -30,6 +30,23 @@ int main(void){
     get<2>(tuple2) = 3.0;
     cout << "tuple 2 is "<< get<0>(tuple2) <<","<<get<1>(tuple2)<<","<<get<2>(tuple2)<<endl;
 
+    // std::tie
+
+    int f = 1;
+    int s = 2;
+    int t = 3;
+    cout << "variables : "<< f <<","<< s<<","<<t<<endl;
+
+    auto tie_tup = tie(f,s,t) = make_tuple(100,101,102);
+    cout << "tie_tup is "<< get<0>(tie_tup) <<","<<get<1>(tie_tup)<<","<<get<2>(tie_tup)<<endl;
+    cout << "variables : "<< f <<","<< s<<","<<t<<endl;
+
+    //std:ignore
+    auto ign_tup = tie(f,s,ignore) = make_tuple(1000,1001,1002);
+    cout << "tie_tup is "<< get<0>(tie_tup) <<","<<get<1>(tie_tup)<<","<<get<2>(tie_tup)<<endl;
+    cout << "variables : "<< f <<","<< s<<","<<t<<endl;
+
+
 
     
 }
