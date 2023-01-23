@@ -15,8 +15,8 @@ https://code.visualstudio.com/docs/languages/cpp
 ## TIL (Today I Learned)
 
 ### 2023. 01.23
-    
-    i learned....
+
+- std::max, std::min, std::minmax, std::move, std::swap code learned
 
 ## Reference
 
