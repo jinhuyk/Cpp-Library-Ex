@@ -25,7 +25,7 @@ int main(void){
 
     // std::forward - 주어진 인수를 그대로 전달하는 함수 템플릭 작성
 
-    // std::swap - two object change
+    // std::swap - two object change (using std::move)
 
     string a{"Mun"};
     string b{"Jinhuyk"};
