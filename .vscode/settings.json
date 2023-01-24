@@ -5,7 +5,8 @@
         "utility": "cpp",
         "vector": "cpp",
         "array": "cpp",
-        "deque": "cpp"
+        "deque": "cpp",
+        "list": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
