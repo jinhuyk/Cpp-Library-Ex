@@ -4,7 +4,8 @@
         "ostream": "cpp",
         "utility": "cpp",
         "vector": "cpp",
-        "array": "cpp"
+        "array": "cpp",
+        "deque": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
