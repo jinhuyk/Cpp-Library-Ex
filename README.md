@@ -24,3 +24,4 @@ https://code.visualstudio.com/docs/languages/cpp
 ## TIL (Today I Learned)
 
 ### [2023. 01.23](https://velog.io/@jinhuyk/TIL-20230123)
+### [2023. 01.23](https://velog.io/@jinhuyk/TIL-2023.01.24)
