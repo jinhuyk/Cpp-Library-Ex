@@ -6,7 +6,14 @@
         "vector": "cpp",
         "array": "cpp",
         "deque": "cpp",
-        "list": "cpp"
+        "list": "cpp",
+        "memory": "cpp",
+        "system_error": "cpp",
+        "type_traits": "cpp",
+        "xmemory": "cpp",
+        "xstddef": "cpp",
+        "xstring": "cpp",
+        "forward_list": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
