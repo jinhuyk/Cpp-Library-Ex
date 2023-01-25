@@ -20,6 +20,12 @@ int main(void){
     list<int> list1{1,3,5,7,9,2,4,6,8,10};
     list<int> list2{1,2,3,5,7,11};
     
+
+    // can't use random access
+
+    //cout << list1[3] << endl;
+    //cout << get<3>(list1) << endl;
+
     cout << "list1: "; for(auto i : list1) cout << i << ", "; cout << endl;
     cout << "list2: "; for(auto i : list2) cout << i << ", "; cout << endl;
 
